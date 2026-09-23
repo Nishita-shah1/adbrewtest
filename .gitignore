@@ -1,0 +1,8 @@
+.env
+src/db/
+src/tmp/
+**/node_modules/
+*.pyc
+__pycache__/
+.DS_Store
+src/app/.eslintcache
