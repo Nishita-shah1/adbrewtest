@@ -1,4 +1,4 @@
-# Adbrew TODO App — Solution
+# Adbrew TODO App - Solution
 
 Full-stack TODO application built with **React (hooks)**, **Django REST Framework**, **MongoDB**, and **Docker**.
 
